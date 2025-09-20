@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Habilita rutas largas en toda la solución -->
+    <EnableLongPathSupport>true</EnableLongPathSupport>
+  </PropertyGroup>
+</Project>
