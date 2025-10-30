@@ -1,0 +1,2 @@
+ALTER TABLE Usuarios
+ADD EsAdmin BIT NOT NULL DEFAULT(0);

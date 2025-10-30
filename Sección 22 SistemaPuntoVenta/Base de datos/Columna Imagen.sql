@@ -1,0 +1,2 @@
+ALTER TABLE Usuarios
+ADD Imagen NVARCHAR(500) NULL;
